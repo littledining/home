@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
-    <loc>https://littledining.github.io/littledining-site/</loc>
+    <loc>https://littledining.github.io/home/</loc>
     <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://littledining.github.io/littledining-site/menu/</loc>
+    <loc>https://littledining.github.io/home/menu/</loc>
     <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://littledining.github.io/littledining-site/directions/</loc>
+    <loc>https://littledining.github.io/home/directions/</loc>
     <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://littledining.github.io/littledining-site/faq/</loc>
+    <loc>https://littledining.github.io/home/faq/</loc>
     <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://littledining.github.io/littledining-site/burger/</loc>
+    <loc>https://littledining.github.io/home/burger/</loc>
     <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://littledining.github.io/littledining-site/western/</loc>
+    <loc>https://littledining.github.io/home/western/</loc>
     <lastmod>2026-08-23</lastmod>
   </url>
 </urlset>

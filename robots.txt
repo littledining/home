@@ -4,4 +4,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://littledining.github.io/littledining-site/sitemap.xml
+Sitemap: https://littledining.github.io/home/sitemap.xml
