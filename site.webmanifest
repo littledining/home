@@ -1,0 +1,22 @@
+{
+  "name": "Official Little Dining",
+  "short_name": "Little Dining",
+  "lang": "ko-KR",
+  "start_url": "https://littledining.github.io/home/",
+  "scope": "/home/",
+  "display": "standalone",
+  "background_color": "#fffaf2",
+  "theme_color": "#c54d1e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
