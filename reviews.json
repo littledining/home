@@ -8,8 +8,7 @@
       "review_count": 1204,
       "url": "https://m.place.naver.com/restaurant/1717817257/review/visitor",
       "observed_at": "2026-08-24T23:21:32+09:00",
-      "status": "live",
-      "error": ""
+      "status": "stale"
     },
     "kakao": {
       "label": "카카오맵",
@@ -17,8 +16,7 @@
       "review_count": 280,
       "url": "https://place.map.kakao.com/2092012838",
       "observed_at": "2026-08-24T23:21:32+09:00",
-      "status": "live",
-      "error": "",
+      "status": "stale",
       "place_review_count": 21,
       "blog_review_count": 259
     },
@@ -28,8 +26,7 @@
       "review_count": 2,
       "url": "https://www.google.com/maps/place/%EB%A6%AC%ED%8B%80+%EB%8B%A4%EC%9D%B4%EB%8B%9D/data=!4m6!3m5!1s0x356f33ed119214a1:0x490adeaa73bd637e!8m2!3d35.255784!4d128.6217367!16s%2Fg%2F11ln0k1xrl",
       "observed_at": "2026-08-24T23:21:32+09:00",
-      "status": "live",
-      "error": ""
+      "status": "stale"
     }
   }
 }

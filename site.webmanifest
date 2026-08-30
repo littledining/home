@@ -1,6 +1,6 @@
 {
-  "name": "Official Little Dining",
-  "short_name": "Little Dining",
+  "name": "리틀다이닝",
+  "short_name": "리틀다이닝",
   "lang": "ko-KR",
   "start_url": "https://littledining.github.io/home/",
   "scope": "/home/",
